@@ -1,3 +1,3 @@
 # gittest
-second commitsecond commit
+second commit
 git add -patch test
